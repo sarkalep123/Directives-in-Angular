@@ -1,8 +1,6 @@
 # Directives-in-Angular
 this is my repo
 
-# Directives-in-Angular
-this is my repo
 # App.ts
 ngSwitch Use in Directives
 color='black';
@@ -62,7 +60,7 @@ color='black';
 
 <button (click)="updateBlock()">Update Block</button>
  
-# App.html
+# App.ts
  ngIf Use in Directives
    login=false
    block=0
